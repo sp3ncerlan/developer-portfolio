@@ -15,6 +15,6 @@ export default [
         year: '2021',
         title: "Hello World!",
         duration: 'The beginning of my coding journey',
-        details: "Fell in love with coding my junior year at Texas A&M University and decided to pursue a career in software development no matter how long it takes. I took an intro to CS course in high school, but it wasn't until I attended several Hackathons and CS club meetings that I realized my passion for the craft."
+        details: "I fell in love with coding my junior year at Texas A&M University and decided to pursue a career in software development no matter how long it takes. I took an intro to CS course in high school, but it wasn't until I attended several Hackathons and CS club meetings that I realized my passion for the craft."
     }
 ]

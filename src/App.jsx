@@ -1,5 +1,4 @@
 import React, { useEffect, useState } from 'react';
-import { SpeedInsights } from "@vercel/speed-insights/next"
 import Intro from './components/Intro'
 import Timeline from './components/Timeline';
 import Portfolio from './components/Portfolio';
@@ -75,7 +74,6 @@ function App() {
       </button>
       <div className="bg-white dark:bg-stone-900 text-stone-900 dark:text-stone-300 min-h-screen font-inter">
         <div className="max-w-5xl w-11/12 mx-auto">
-          <SpeedInsights />
           <Intro />
           <Portfolio />
           <Timeline />

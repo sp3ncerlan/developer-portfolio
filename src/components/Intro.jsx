@@ -8,10 +8,8 @@ function Intro() {
             <p className="text-sm max-w-xl mb-6 font-bold">With a background in Finance and a BBA from Texas A&M University, I have experience in credit analysis and portfolio management as a Senior Analyst at Citi.
             </p>
 
-            <br>...</br>
-
             <p className="text-sm max-w-xl mb-6 font-bold">
-            Now, I'm pursuing a BS in Computer Science at Oregon State University - building skills in software development, including Python, JavaScript, and React. I am actively seeking opportunities to transition into a role in software, where I aim to continue building my development toolbelt and learning from the best in the industry.
+            Now, I'm pursuing a BS in Computer Science at Oregon State University - building skills in software development and problem solving. I am actively seeking opportunities to transition into a role in software, where I aim to hone my developmental toolbelt and learn from the best in the industry.
             </p>
         </div>
     )
